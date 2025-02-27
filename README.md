@@ -16,7 +16,6 @@ Currently, two official plugins are available:
 <h2>Set Up and Run the Apllication</h2>
 <h4>1.Clone the Repository</h4>
 <p>git clone https://github.com/Pratiksha06032004/micro-frontend.git</p>
-<p>cd MICRO-FRONTEND-ARCHITECTURE</p> 
 <h4>2.Install Dependencies</h4>
 <p>npm install</p>
 <h4>3.Start Micro-Frontend</h4>
