@@ -6,7 +6,6 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
 - # Micro-frontend architecture using React.js and Vite.
 - <h2><b>Tools and Frameworks Used :</b></h2>
 <h4><b><React js/b>-Core framework for building UI component</h4>
@@ -16,7 +15,7 @@ Currently, two official plugins are available:
 <br><br>
 <h2>Set Up and Run the Apllication</h2>
 <h4>1.Clone the Repository</h4>
-<p>git clone       </p><br>
+<p>git clone https://github.com/Pratiksha06032004/micro-frontend.git</p><br>
 <p>cd MICRO-FRONTEND-ARCHITECTURE</p> 
 <p>npm install</p>
 <p>cd micro-frontend</p>
@@ -28,10 +27,10 @@ Currently, two official plugins are available:
 <p>Vite for Fast Builds-Instead of webpack,but avoids vite.config.js modification.</p><br>
 <p>GitHub Pages for Hosting-Simplifies deployement without needing a backend</p><br>
 <h4>Trade-offs</h4>
-<h2>Pros</h2>
+<h5>Pros</h5>
 <p>Faster development with independent apps.</p><br>
 <p>Deployment Flexibility</p>
-<h2>Cons</h2>
+<h5>Cons</h5>
 <p>Managing shared dependencies can be tricky</p><br>
 <p>Event-based communication requires careful handling</p><br>
 <p>Routing needs careful handeling to ensure smooth navigation between micro-frontends.</p>
