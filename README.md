@@ -24,14 +24,14 @@ Currently, two official plugins are available:
 <br><br>
 <h2>Key Architecture Decision and Trade-offs</h2>
 <h4>Decision</h4>
-<p>Using a Micro-Frontend Framework-Enable indepent development and deployment of features.</p><br>
-<p>Vite for Fast Builds-Instead of webpack,but avoids vite.config.js modification.</p><br>
-<p>GitHub Pages for Hosting-Simplifies deployement without needing a backend</p><br>
+<p>Using a Micro-Frontend Framework-Enable indepent development and deployment of features.</p>
+<p>Vite for Fast Builds-Instead of webpack,but avoids vite.config.js modification.</p>
+<p>GitHub Pages for Hosting-Simplifies deployement without needing a backend</p>
 <h4>Trade-offs</h4>
 <h5>Pros</h5>
-<p>Faster development with independent apps.</p><br>
+<p>Faster development with independent apps.</p>
 <p>Deployment Flexibility</p>
 <h5>Cons</h5>
-<p>Managing shared dependencies can be tricky</p><br>
-<p>Event-based communication requires careful handling</p><br>
+<p>Managing shared dependencies can be tricky</p>
+<p>Event-based communication requires careful handling</p>
 <p>Routing needs careful handeling to ensure smooth navigation between micro-frontends.</p>
